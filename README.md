@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Masako. I have a dog named Rocky. He is a Chihuahua-Pitbull mix, we think. Or in the least we know his mom is a Chihuahua. I am currently in the middle of Harvard Forest, participating in a 11-week ecology summer REU program.
+## Hi there 👋 My name is Masako. I have a dog named Rocky. He is a Chihuahua-Pitbull mix, we think. Or in the least we know his mom is a Chihuahua. I am currently in the middle of Harvard Forest, participating in a 11-week ecology summer REU program. I really like it here. I am working on my research proposal, due tomorrow (Wednesday June 26, 2024). 🥔🌰🍗
 
 <!--
 **masakoyyang/masakoyyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
